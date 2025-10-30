@@ -5,7 +5,7 @@
 ## Структура проекта
 
 ```
-adapter-pattern-go/
+adapter-pattern/
 ├── main.go          # Реализация паттерна Адаптер
 └── README.md        # Документация
 ```
